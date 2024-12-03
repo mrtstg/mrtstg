@@ -8,9 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrtstg&rank=-C,-B&theme=gruvbox&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-EN: 19 y.o delevoper, currently learning Haskell and Kotlin now. Trying to make simple, yet powerful software and become better at programming. Currently, working at [ICL Services](https://icl-services.com/) as a DevOps engineer
+EN: 20 y.o delevoper, currently learning Haskell and Kotlin now. Trying to make simple, yet powerful software and become better at programming. Currently, working at [ICL Services](https://icl-services.com/) as a DevOps engineer
 
-RU: 19-летний разрабочик, сейчас изучаю Haskell и Kotlin. Стараюсь разрабатывать простые, но мощные программы и стать лучше. На данный момент работаю в [ICL Services](https://icl-services.com/) DevOps инженером.
+RU: 20-летний разрабочик, сейчас изучаю Haskell и Kotlin. Стараюсь разрабатывать простые, но мощные программы и стать лучше. На данный момент работаю в [ICL Services](https://icl-services.com/) DevOps инженером.
 
 ## Some projects / Мои проекты
 
